@@ -39,6 +39,6 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
-Units:
-*The accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2)
-*The gyroscope units are rad/seg.
+###Units:
+* The accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2)
+* The gyroscope units are rad/seg.
